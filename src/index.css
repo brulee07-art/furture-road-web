@@ -1,0 +1,19 @@
+:root{
+  --blue:#0575e6;
+  --yellow:#ffd54a;
+  --bg:#f7fbff;
+  --text:#1f2937;
+}
+*{box-sizing:border-box}
+body{font-family:Inter, Noto Sans KR, Arial, sans-serif;margin:0;color:var(--text);background:var(--bg)}
+.header{display:flex;justify-content:space-between;align-items:center;padding:16px 24px;background:linear-gradient(90deg,var(--blue),#33a1ff);color:white}
+.logo{font-weight:700}
+.nav button{background:transparent;border:none;color:white;margin-left:10px;cursor:pointer;font-weight:600}
+.main{padding:24px;max-width:1000px;margin:0 auto}
+.hero{background:white;border-radius:12px;padding:32px;text-align:center;box-shadow:0 6px 18px rgba(0,0,0,0.08)}
+.hero h1{font-size:28px;color:var(--blue);margin:0 0 8px}
+.slogan{font-size:20px;margin-bottom:10px}
+.cta{background:var(--yellow);border:none;padding:10px 18px;border-radius:8px;font-weight:700;cursor:pointer}
+table{width:100%;border-collapse:collapse;margin-top:12px}
+th,td{border:1px solid #e6eef8;padding:8px;text-align:left}
+.footer{background:linear-gradient(90deg,var(--blue),#33a1ff);color:white;padding:16px;text-align:center;margin-top:24px}
