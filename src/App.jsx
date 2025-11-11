@@ -100,7 +100,7 @@ export default function App(){
       </main>
 
       <footer className="footer">
-        <p>© 2025 FUTURE ROAD 교과연구회 · 서영대학교</p>
+        <p>© 2025 FUTURE ROAD 교과연구회</p>
         <p>문의: future.road@event.org</p>
       </footer>
     </div>
