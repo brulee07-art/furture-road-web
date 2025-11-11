@@ -101,7 +101,7 @@ export default function App(){
 
       <footer className="footer">
         <p>© 2025 FUTURE ROAD 교과연구회</p>
-        <p>문의: future.road@event.org</p>
+        <p>문의: futureroad@gwangdeok.net</p>
       </footer>
     </div>
   )
